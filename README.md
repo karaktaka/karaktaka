@@ -1,12 +1,12 @@
 # Hi there 👋 I'm karaktaka!
 
-## 🚀 Lead DevOps Engineer
+## 🚀 Lead DevOps System Engineer
 
-I'm a passionate Lead DevOps Engineer specializing in designing, automating, and scaling cloud infrastructure. My expertise lies in:
+I'm a passionate Lead DevOps System Engineer specializing in designing, automating, and scaling cloud infrastructure. My expertise lies in:
 
 - **Cloud Platforms:** AWS, GCP
-- **Infrastructure as Code:** Terraform, ansible
-- **Container Orchestration:** Kubernetes, Containers
+- **Infrastructure as Code:** Terraform, Ansible
+- **Container Orchestration:** Kubernetes, Containers, Helm
 - **Programming:** Python
 
 ---
@@ -18,7 +18,7 @@ I'm a passionate Lead DevOps Engineer specializing in designing, automating, and
 - **Containers:** Kubernetes (GitOps, monitoring, scaling, operators)
 - **Automation:** Python (CLI tools, AWS automation, scripting)
 - **CI/CD:** Github Actions, Gitlab CI/CD
-- **Monitoring:** Prometheus, Grafana
+- **Monitoring:** Prometheus, Grafana, Alertmanager
 
 ---
 
