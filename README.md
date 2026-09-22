@@ -1,8 +1,13 @@
 # Hi there 👋 I'm karaktaka!
 
-## 🚀 Lead DevOps System Engineer
+## 🚀 Staff Cloud Engineer
 
-I'm a passionate Lead DevOps System Engineer specializing in designing, automating, and scaling cloud infrastructure. My expertise lies in:
+I'm a Staff Cloud Engineer Fully specialized in cloud-first infrastructure.
+
+Currently diving deep into AI-driven automation, I explore how large language models and agentic workflows can enhance developer productivity and streamline operations.
+Driving the Models to their limits and always try to enhance the setup by making it more efficient, intelligent and cost-effective.
+
+My expertise lies in:
 
 - **Cloud Platforms:** AWS, GCP
 - **Infrastructure as Code:** Terraform, Ansible
@@ -38,6 +43,10 @@ Feel free to connect or check out my work:
 
 ---
 
-## ⚡ Fun Fact
+## 🧩 Fun Fact
 
 I love solving infrastructure puzzles and automating everything that can be automated!
+
+## ⚡️ More
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=karaktaka&rank_icon=github&hide_title=true&show_icons=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=karaktaka&rank_icon=github&hide_title=true&show_icons=true&theme=catppuccin_mocha)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=karaktaka&layout=compact&langs_count=4&hide_values=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=karaktaka&layout=compact&langs_count=4&hide_values=true&theme=catppuccin_mocha)
